@@ -1,0 +1,62 @@
+[
+  {
+    "text": "World of Warcraft",
+    "destination": "/family/world-of-warcraft",
+    "category": "Massively Multiplayer RPG",
+    "icon": {
+      "width": 512,
+      "height": 512,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+      "description": "World of Warcraft"
+    },
+    "navMarketingBadge": null
+  },
+  {
+    "text": "World of Warcraft Classic",
+    "destination": "/family/world-of-warcraft-classic",
+    "category": "Massively Multiplayer RPG",
+    "icon": {
+      "width": 48,
+      "height": 48,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+      "description": "World of Warcraft Cataclysm Classic"
+    },
+    "navMarketingBadge": null
+  },
+  {
+    "text": "Warcraft Rumble",
+    "destination": "/family/warcraft-rumble",
+    "category": "Action Strategy",
+    "icon": {
+      "width": 50,
+      "height": 50,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltbab8fa67f2c9cb2e/63c9a73673dc3f13ebc9a8e1/WarcraftArclightRumble_Color_JL01.svg",
+      "description": "Warcraft Rumble"
+    },
+    "navMarketingBadge": null
+  },
+  {
+    "text": "Hearthstone",
+    "destination": "/family/hearthstone",
+    "category": "Strategy Card Game",
+    "icon": {
+      "width": 512,
+      "height": 512,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5538a5cdb0e16552/60db86c967d3385db9b805be/hearthstone.svg",
+      "description": "Hearthstone"
+    },
+    "navMarketingBadge": null
+  },
+  {
+    "text": "Warcraft",
+    "destination": "/family/warcraft-rts",
+    "category": "Real-time Strategy",
+    "icon": {
+      "width": 48,
+      "height": 48,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfd93fccae7bc7846/6722c69435c0920bf5350a5d/game_icon_warcraft_family.svg",
+      "description": "Warcraft"
+    },
+    "navMarketingBadge": null
+  }
+]

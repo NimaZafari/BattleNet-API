@@ -1,0 +1,746 @@
+[
+      {
+        "cmsId": "blt60eb5939a28e6b2d",
+        "order": 0,
+        "slug": "call-of-duty-black-ops-6",
+        "productIds": [1847633],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Black Ops 6",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-black-ops-6?p=1847633",
+        "franchiseIcon": {
+          "name": "Call of Duty Black Ops 6",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd1ac24e6e9aeed6a/664bfd8842baa47dde6ae978/-Bnet_Game-Logo-1000pxWide_(1).png",
+        "categoryId": "action-shooter",
+        "description": "Action Shooter",
+        "marketingText": "Welcome Home to Verdansk in Season 03!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$69.99",
+          "discountAmount": "$48.99",
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 48.99,
+          "discountPercentage": 30,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960.0,
+          "height": 540.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6eab8ebc74b0a118/6647c638958c44bf1e3611be/-Bnet_Game-Card_Product_browsing-EN-960x540_(4).jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1847633": {
+              "name": "Call of Duty Black Ops 6 (2024) - Post Launch - Standard Edition",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game"
+            }
+          },
+          "franchise": "COD  Black Ops 6",
+          "subBrand": "Call of Duty®: Modern Warfare® II",
+          "category": "action-shooter"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt6322d8c968632174",
+        "order": 0,
+        "slug": "balance",
+        "productIds": [15989],
+        "subscriptionIds": [],
+        "title": "Battle.net® Balance",
+        "destination": "https://us.shop.battle.net/en-us/product/balance?p=15989",
+        "franchiseIcon": {
+          "name": "Battle.net Services",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20ce4bea7a364041/60eddfc82d26525ef67aca6b/battlenet-nexus-color.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "game-services",
+        "description": "Game Services",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Custom",
+        "callToActionText": "Learn More",
+        "marketingBadge": null,
+        "price": {
+          "currency": null,
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "Learn More",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 0.0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920.0,
+          "height": 1080.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt57a421d9cc7b9cc7/6435dd4ed402e526b209460e/Battlenet-Balance.jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "15989": {
+              "name": "Battle.net Balance",
+              "franchise": "NOT_APPLICABLE",
+              "subBrand": "Battle.net Balance",
+              "category": "Balance"
+            }
+          },
+          "franchise": "NOT_APPLICABLE",
+          "subBrand": "Battle.net Balance",
+          "category": "game-services"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt0be2527c3340dba7",
+        "order": 0,
+        "slug": "call-of-duty-black-ops-6-wz-black-cell-pack-s3",
+        "productIds": [1865659],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Black Ops 6 - BlackCell (Season 3)",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-black-ops-6-wz-black-cell-pack-s3?p=1865659",
+        "franchiseIcon": {
+          "name": "Call of Duty Black Ops 6",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "cod-in-game-content",
+        "description": "In-game content",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "Buy Now",
+        "marketingBadge": { "color": "RED", "text": "New" },
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$29.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 29.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960.0,
+          "height": 540.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdadd603cccafbb8f/67de0e4ec9e9d93dde7f7238/-Bnet_Game-Card_Feature_4-EN-960x540.jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1865659": {
+              "name": "BO6 - Black Cell Pack 03 S3",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            }
+          },
+          "franchise": "COD  Black Ops 6",
+          "subBrand": "Call of Duty®: Modern Warfare® II",
+          "category": "cod-in-game-content"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "bltda080fae79cbcf94",
+        "order": 0,
+        "slug": "battle-tag-name-change",
+        "productIds": [22087],
+        "subscriptionIds": [],
+        "title": "BattleTag Change",
+        "destination": "https://us.shop.battle.net/en-us/product/battle-tag-name-change?p=22087",
+        "franchiseIcon": {
+          "name": "Battle.net Services",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20ce4bea7a364041/60eddfc82d26525ef67aca6b/battlenet-nexus-color.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "game-services",
+        "description": "Game Services",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$10.00",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 10.0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920.0,
+          "height": 1080.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt65313c75181aa239/6435dd3e9c5c306d4219a13f/BattleTag-Change.jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "22087": {
+              "name": "Battle.Tag Name Change",
+              "franchise": "BattleTag Change",
+              "subBrand": "BattleTag",
+              "category": "Battle.net Service / Add-on"
+            }
+          },
+          "franchise": "BattleTag Change",
+          "subBrand": "BattleTag",
+          "category": "game-services"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt139b3452d82f751f",
+        "order": 0,
+        "slug": "call-of-duty-points",
+        "productIds": [1013347, 964882, 965333, 965334, 965367, 965335, 965368],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Black Ops 6 or Call of Duty®: Warzone Points (CP)",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-points",
+        "franchiseIcon": {
+          "name": "Call of Duty Black Ops 6",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "cod-in-game-content",
+        "description": "In-game content",
+        "marketingText": "Use CP to get the Battle Pass!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$1.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "From {0}",
+          "label": "From",
+          "labelOrder": "before",
+          "iconUrl": null,
+          "raw": 1.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960.0,
+          "height": 540.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8688c5135502da6e/6734fc80f8139b77208b4955/-BNET_Game-Card_Product_browsing-EN-960x540_(1).jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1013347": {
+              "name": "Modern Warfare II - 00200 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "964882": {
+              "name": "Modern Warfare II - 00500 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "965333": {
+              "name": "Modern Warfare II - 01100 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "965334": {
+              "name": "Modern Warfare II - 02400 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "965367": {
+              "name": "Modern Warfare II - 05000 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "965335": {
+              "name": "Modern Warfare II - 09500 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            },
+            "965368": {
+              "name": "Modern Warfare II - 13000 COD Points (Shop)",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game Add-on"
+            }
+          },
+          "franchise": "COD  Black Ops 6",
+          "subBrand": "Call of Duty®: Modern Warfare® II",
+          "category": "cod-in-game-content"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt7105e6b135417ef6",
+        "order": 0,
+        "slug": "world-of-warcraft-mists-of-pandaria-classic-upgrades",
+        "productIds": [1891520],
+        "subscriptionIds": [],
+        "title": "Sha-Infused Heroic Pack",
+        "destination": "https://us.shop.battle.net/en-us/product/world-of-warcraft-mists-of-pandaria-classic-upgrades?p=1891520",
+        "franchiseIcon": {
+          "name": "World of Warcraft Mists of Pandaria Classic",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6c73fa810b4ff617/67ace5a13183f6e4e1949750/WoW_Mists_of_Pandaria_Classic_Icon_01.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "game-upgrades",
+        "description": "Game Upgrades",
+        "marketingText": "Mists of Pandaria Classic will be included with Subscription or Game Time. Get a bounty of Sha-infused cosmetics for both Modern and Classic Progression now!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": { "color": "RED", "text": "New" },
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$39.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 39.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920.0,
+          "height": 1080.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltaa1f74a488f0da58/67ace2c34b52ffe403e774fe/WoW_ClassicMOPBundle_BnetShop_BrowsingCard_Heroic_1920x1080.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1891520": {
+              "name": "WoW Mists of Pandaria (MOP) Classic: Heroic Upgrade",
+              "franchise": "World of Warcraft Classic: MoP Classic",
+              "subBrand": "World of Warcraft®",
+              "category": "Game"
+            }
+          },
+          "franchise": "World of Warcraft Classic: MoP Classic",
+          "subBrand": "World of Warcraft®",
+          "category": "game-upgrades"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "bltaed8c2dfebd418e2",
+        "order": 0,
+        "slug": "overwatch-coins",
+        "productIds": [847133, 847119, 847120, 847121, 847122],
+        "subscriptionIds": [],
+        "title": "Overwatch® 2 – Overwatch Coins",
+        "destination": "https://us.shop.battle.net/en-us/product/overwatch-coins",
+        "franchiseIcon": {
+          "name": "Overwatch 2",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt2b10f15887767e8a/62bb34620f8fa6114e1c7ae4/Overwatch2_Wordmark_DKBKGD.png",
+        "categoryId": "prisms-and-coins",
+        "description": "Prisms and Coins",
+        "marketingText": "Use Overwatch Coins to Get the Premium Battle Pass and More!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$4.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "From {0}",
+          "label": "From",
+          "labelOrder": "before",
+          "iconUrl": null,
+          "raw": 4.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960.0,
+          "height": 540.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5387d7cefaf9923d/6334e1997e84e17596f9c816/Coins_960x540.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "847133": {
+              "name": "Overwatch 2 Credits (VC) - Overwatch Coins - 500 VC",
+              "franchise": "Overwatch",
+              "subBrand": "Overwatch®",
+              "category": "Game Add-on"
+            },
+            "847119": {
+              "name": "Overwatch 2 Credits (VC) - Overwatch Coins - 1,000 VC",
+              "franchise": "Overwatch",
+              "subBrand": "Overwatch®",
+              "category": "Game Add-on"
+            },
+            "847120": {
+              "name": "Overwatch 2 Credits (VC) - Overwatch Coins - 2,000 VC (+200 Bonus)",
+              "franchise": "Overwatch",
+              "subBrand": "Overwatch®",
+              "category": "Game Add-on"
+            }
+          },
+          "franchise": "Overwatch",
+          "subBrand": "Overwatch®",
+          "category": "prisms-and-coins"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt059d088b2b858b80",
+        "order": 0,
+        "slug": "eternal-orbs",
+        "productIds": [322421, 936917, 936957, 322441, 322424, 322425, 809966],
+        "subscriptionIds": [],
+        "title": "Eternal Orbs",
+        "destination": "https://us.shop.battle.net/en-us/product/eternal-orbs",
+        "franchiseIcon": {
+          "name": "Diablo Immortal",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltee9e970c2fdd9c6b/621d4cb6e47e3d2eff210070/D_Immortal_Icon_Small_BlizzCon_PF08.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "in-game-content",
+        "description": "In-Game Content",
+        "marketingText": "Use Eternal Orbs to purchase Cosmetics, Eternal Legendary Crests, and more!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$0.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "From {0}",
+          "label": "From",
+          "labelOrder": "before",
+          "iconUrl": null,
+          "raw": 0.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920.0,
+          "height": 1080.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt0819ca461bf740fe/66217895add4ca7624b78145/1500Orb_Pack_1920x1080_flip.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "322421": {
+              "name": "Pack of 60 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "936917": {
+              "name": "Pack of 320 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "936957": {
+              "name": "Pack of 650 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "322441": {
+              "name": "Pack of 1650 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "322424": {
+              "name": "Pack of 3450 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "322425": {
+              "name": "Pack of 7200 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            },
+            "809966": {
+              "name": "Pack of 15000 Eternal Orbs ROW",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game Add-on"
+            }
+          },
+          "franchise": "Diablo Immortal",
+          "subBrand": "Diablo® Immortal™",
+          "category": "in-game-content"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt086f572c5880c3f0",
+        "order": 0,
+        "slug": "warcraft-remastered-battle-chest",
+        "productIds": [1863680],
+        "subscriptionIds": [],
+        "title": "Warcraft® Remastered Battle Chest®",
+        "destination": "https://us.shop.battle.net/en-us/product/warcraft-remastered-battle-chest?p=1863680",
+        "franchiseIcon": {
+          "name": "Warcraft",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfd93fccae7bc7846/6722c69435c0920bf5350a5d/game_icon_warcraft_family.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt10937652e7a65ec7/6735551464be9f71ec258e51/Battlechest_logo_final_(2).png",
+        "categoryId": "real-time-strategy",
+        "description": "Real-time Strategy",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "Buy Now",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$39.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 39.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920.0,
+          "height": 1080.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt1e83563dc57a20d3/6725556ad3be08302f8e0f5e/WC_Remastered_BattleChest_BnetShop_BrowsingCard_1920x1080.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1863680": {
+              "name": "Warcraft Remastered Battle Chest",
+              "franchise": "Warcraft 3",
+              "subBrand": "Warcraft III: Reforged",
+              "category": "Game"
+            }
+          },
+          "franchise": "Warcraft 3",
+          "subBrand": "Warcraft III: Reforged",
+          "category": "real-time-strategy"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt38276a77ca155937",
+        "order": 0,
+        "slug": "starcraft-ii-zeratul-commander",
+        "productIds": [43905],
+        "subscriptionIds": [],
+        "title": "Commander: Zeratul",
+        "destination": "https://us.shop.battle.net/en-us/product/starcraft-ii-zeratul-commander?p=43905",
+        "franchiseIcon": {
+          "name": "StarCraft II",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltcadd0c49e316fea2/60db86c9ce1eb95db45df71f/starcraft-ii.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "commanders",
+        "description": "Commanders",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$4.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 4.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 700.0,
+          "height": 850.0,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltc9d9c3fdf791563e/612547ddb1f79d42d75354d2/14360-43905.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "43905": {
+              "name": "Commander Zeratul",
+              "franchise": "StarCraft 2",
+              "subBrand": "StarCraft® II",
+              "category": "Game Add-on"
+            }
+          },
+          "franchise": "StarCraft 2",
+          "subBrand": "StarCraft® II",
+          "category": "commanders"
+        },
+        "shouldShowPriceReducedBadge": false
+      }
+    ]

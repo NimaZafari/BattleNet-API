@@ -1,0 +1,110 @@
+[
+      {
+        "text": "Black Ops 6",
+        "destination": "/family/call-of-duty",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 1026.14,
+          "height": 248.76,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "description": "Call of Duty Black Ops 6"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Modern Warfare III",
+        "destination": "/family/call-of-duty",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 1728,
+          "height": 504,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8168cbdbbc05770d/64cc38e2c45759d767a1f84f/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "description": "Call of Duty: Modern Warfare III"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Warzone",
+        "destination": "/family/call-of-duty",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 264.81,
+          "height": 159.8,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt294c43cf459c9461/648918994630b6246bc70c14/Warzone_WZ_White_RGB.svg",
+          "description": "Call of Duty: Warzone"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Modern Warfare II",
+        "destination": "/family/call-of-duty",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8f53b3687511367c/62abb5b3e5f7e7444f49f012/MWII_LOGO_SQUARE_SVG.svg",
+          "description": "Call of Duty: Modern Warfare II"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Vanguard",
+        "destination": "/family/call-of-duty-vanguard",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 48,
+          "height": 48,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdbe988a11f72d788/6179f1c61bb8c23cf8bbe9c4/VanguardGold.svg",
+          "description": "Call of Duty: Vanguard"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Black Ops Cold War",
+        "destination": "/family/call-of-duty-black-ops-cold-war",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 48,
+          "height": 48,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9b410089e8178011/60db86bb3681555f01d08321/call-of-duty-black-ops-cold-war.svg",
+          "description": "Call of Duty: BOCW"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Modern Warfare",
+        "destination": "/family/call-of-duty-mw",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 80,
+          "height": 80,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt492af3d8b35e50b5/60db86bb2d26525ef67ac5a4/call-of-duty-mw.svg",
+          "description": "Call of Duty: MW"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Modern Warfare 2 Campaign Remastered",
+        "destination": "/family/call-of-duty-mw2cr",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20dbad195544277b/60db86bb67d3385db9b805b6/call-of-duty-mw2cr.svg",
+          "description": "Call of Duty: MW2CR"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Black Ops 4",
+        "destination": "/family/call-of-duty-black-ops-4",
+        "category": "Action Shooter",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt959140aefa0792de/60db86bbad189d64efcca220/call-of-duty.svg",
+          "description": "Call of Duty: BO4"
+        },
+        "navMarketingBadge": null
+      }
+    ]

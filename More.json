@@ -1,0 +1,98 @@
+[
+      {
+        "text": "Avowed",
+        "destination": "/product/avowed",
+        "category": "First-person Fantasy RPG",
+        "icon": {
+          "width": 48,
+          "height": 48,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt848a0dc3840b3b40/672a47111dee4778620cdd73/game_icon_avowed.svg",
+          "description": "Avowed"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "StarCraft",
+        "destination": "/family/starcraft-remastered",
+        "category": "Real-time Strategy",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blte2114932bc6a3b4b/60db86c94ff91563ab257a00/starcraft-remastered.svg",
+          "description": "StarCraft"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "StarCraft II",
+        "destination": "/family/starcraft-ii",
+        "category": "Real-time Strategy",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltcadd0c49e316fea2/60db86c9ce1eb95db45df71f/starcraft-ii.svg",
+          "description": "StarCraft II"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Heroes of the Storm",
+        "destination": "/family/heroes-of-the-storm",
+        "category": "MOBA",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blte9a32f331b70f4a0/60db86c93681555f01d08325/heroes-of-the-storm.svg",
+          "description": "Heroes of the Storm"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Blizzard Arcade Collection",
+        "destination": "/product/blizzard-arcade-collection",
+        "category": "Bundle",
+        "icon": {
+          "width": 44.5,
+          "height": 44.5,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfbd1ff48b59c89d2/60db86bbce1eb95db45df717/blizzard-arcade.svg",
+          "description": "Blizzard Arcade"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Crash Bandicoot 4",
+        "destination": "/product/crash-bandicoot-4",
+        "category": "Platformer",
+        "icon": {
+          "width": 100,
+          "height": 100,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb39d6b2c23d8be08/60db86bb2b55c663af1b7110/crash-bandicoot-4.svg",
+          "description": "Crash Bandicoot 4"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "The Outer Worlds 2",
+        "destination": "/product/the-outer-worlds-2",
+        "category": "Action RPG",
+        "icon": {
+          "width": 48,
+          "height": 48,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt660df2f59c1fe208/67eec8352e617683d54960a4/game_icon_arkansas_(2).svg",
+          "description": "The Outer Worlds 2"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Tony Hawk’s Pro Skater 3 + 4",
+        "destination": "/product/tony-hawks-pro-skater-3-4",
+        "category": "Extreme Action Sports",
+        "icon": {
+          "width": 48,
+          "height": 48,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9bc6828cda317152/67c75317d01bba36b64889fa/game_icon_chicago.svg",
+          "description": "Tony Hawk's Pro Skater"
+        },
+        "navMarketingBadge": null
+      }
+    ]

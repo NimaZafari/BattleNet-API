@@ -1,0 +1,667 @@
+[
+      {
+        "cmsId": "blt60eb5939a28e6b2d",
+        "order": 0,
+        "slug": "call-of-duty-black-ops-6",
+        "productIds": [1847633],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Black Ops 6",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-black-ops-6?p=1847633",
+        "franchiseIcon": {
+          "name": "Call of Duty Black Ops 6",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd1ac24e6e9aeed6a/664bfd8842baa47dde6ae978/-Bnet_Game-Logo-1000pxWide_(1).png",
+        "categoryId": "action-shooter",
+        "description": "Action Shooter",
+        "marketingText": "Welcome Home to Verdansk in Season 03!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$69.99",
+          "discountAmount": "$48.99",
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 48.99,
+          "discountPercentage": 30,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960,
+          "height": 540,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6eab8ebc74b0a118/6647c638958c44bf1e3611be/-Bnet_Game-Card_Product_browsing-EN-960x540_(4).jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1847633": {
+              "name": "Call of Duty Black Ops 6 (2024) - Post Launch - Standard Edition",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game"
+            }
+          },
+          "franchise": "COD  Black Ops 6",
+          "subBrand": "Call of Duty®: Modern Warfare® II",
+          "category": "action-shooter"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blte5ba00888eca8550",
+        "order": 0,
+        "slug": "world-of-warcraft-the-war-within",
+        "productIds": [1433434, 1433433, 1433432],
+        "subscriptionIds": [],
+        "title": "World of Warcraft®: The War Within™",
+        "destination": "https://us.shop.battle.net/en-us/product/world-of-warcraft-the-war-within",
+        "franchiseIcon": {
+          "name": "World of Warcraft",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb331badf78ac9cde/6549867dd2e4eb8b8d1efcf6/WoW_11p0_Logo_enUS_(1).png",
+        "categoryId": "massively-multiplayer-rpg",
+        "description": "Massively Multiplayer RPG",
+        "marketingText": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$49.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "From {0}",
+          "label": "From",
+          "labelOrder": "before",
+          "iconUrl": null,
+          "raw": 49.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1433434": {
+              "name": "WoW 11.0 Epic Edition",
+              "franchise": "World of Warcraft: War Within",
+              "subBrand": "World of Warcraft®",
+              "category": "Game"
+            },
+            "1433433": {
+              "name": "WoW 11.0 Heroic Edition",
+              "franchise": "World of Warcraft: War Within",
+              "subBrand": "World of Warcraft®",
+              "category": "Game"
+            },
+            "1433432": {
+              "name": "WoW 11.0 Base Edition",
+              "franchise": "World of Warcraft: War Within",
+              "subBrand": "World of Warcraft®",
+              "category": "Game"
+            }
+          },
+          "franchise": "World of Warcraft: War Within",
+          "subBrand": "World of Warcraft®",
+          "category": "massively-multiplayer-rpg"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt1f607032fc366feb",
+        "order": 0,
+        "slug": "diablo-iv",
+        "productIds": [1831028],
+        "subscriptionIds": [],
+        "title": "Diablo® IV Expansion Bundle",
+        "destination": "https://us.shop.battle.net/en-us/product/diablo-iv?p=1831028",
+        "franchiseIcon": {
+          "name": "Diablo IV",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb3598fe0ffd7f1d9/64baff12e26c5466574bc28f/Diablo_IV_Logo_EN.png",
+        "categoryId": "action-rpg",
+        "description": "Action RPG",
+        "marketingText": "Vessel of Hatred Available Now!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$69.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 69.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6de29b9f5831600b/66568f92b468e237b6be828e/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_combo_1920x1080.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1831028": {
+              "name": "[PH] Combo Bnet Standard SKU",
+              "franchise": "Diablo IV + Vessel of Hatred",
+              "subBrand": "Diablo® IV",
+              "category": "Game"
+            }
+          },
+          "franchise": "Diablo IV + Vessel of Hatred",
+          "subBrand": "Diablo® IV",
+          "category": "action-rpg"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt61a6639daffb3c4c",
+        "order": 0,
+        "slug": "call-of-duty-black-ops-6",
+        "productIds": [1760240],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Black Ops 6 - Vault Edition",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-black-ops-6?p=1760240",
+        "franchiseIcon": {
+          "name": "Call of Duty Black Ops 6",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "action-shooter",
+        "description": "Action Shooter",
+        "marketingText": "Welcome Home to Verdansk in Season 03!",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 99.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960,
+          "height": 540,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1760240": {
+              "name": "Call of Duty: Pre-Purchase (and launch) - COD24 Vault",
+              "franchise": "COD  Black Ops 6",
+              "subBrand": "Call of Duty®: Modern Warfare® II",
+              "category": "Game"
+            }
+          },
+          "franchise": "COD  Black Ops 6",
+          "subBrand": "Call of Duty®: Modern Warfare® II",
+          "category": "action-shooter"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt0826ddc54d51d3b5",
+        "order": 0,
+        "slug": "overwatch",
+        "productIds": [1007996],
+        "subscriptionIds": [],
+        "title": "Overwatch® 2",
+        "destination": "https://us.shop.battle.net/en-us/product/overwatch?p=1007996",
+        "franchiseIcon": {
+          "name": "Overwatch 2",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt2b10f15887767e8a/62bb34620f8fa6114e1c7ae4/Overwatch2_Wordmark_DKBKGD.png",
+        "categoryId": "team-based-action-game",
+        "description": "Team-Based Action Game",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Custom",
+        "callToActionText": "Play For Free",
+        "marketingBadge": null,
+        "price": {
+          "currency": null,
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "Play For Free",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt99028ee4c0956a85/67aa9f43f593ce7476ebb0ac/OW2_2024_S15-Launch-BNET_SA01_BNET_shopbrowsing_1920x1080.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "1007996": {
+              "name": "Overwatch Free to Play (Web Shop card)",
+              "franchise": "Overwatch",
+              "subBrand": "Overwatch®",
+              "category": "Game"
+            }
+          },
+          "franchise": "Overwatch",
+          "subBrand": "Overwatch®",
+          "category": "team-based-action-game"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt2a9a5c58ee5e82db",
+        "order": 0,
+        "slug": "hearthstone",
+        "productIds": [29509],
+        "subscriptionIds": [],
+        "title": "Hearthstone®",
+        "destination": "https://us.shop.battle.net/en-us/product/hearthstone?p=29509",
+        "franchiseIcon": {
+          "name": "Hearthstone",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5538a5cdb0e16552/60db86c967d3385db9b805be/hearthstone.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "strategy-card-game",
+        "description": "Strategy Card Game",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Custom",
+        "callToActionText": "Play For Free",
+        "marketingBadge": null,
+        "price": {
+          "currency": null,
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "Play For Free",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta3edb166df401d70/67e19dc2357d64a792a98699/HS_32p0_ITED_Mega_Phoenix_Franchise_ArtOnly_1920x1080_MMZ02.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "29509": {
+              "name": "Hearthstone Free to Play",
+              "franchise": "Hearthstone",
+              "subBrand": "Hearthstone®",
+              "category": "Game"
+            }
+          },
+          "franchise": "Hearthstone",
+          "subBrand": "Hearthstone®",
+          "category": "strategy-card-game"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "bltd6ec8173b1be4497",
+        "order": 0,
+        "slug": "call-of-duty-warzone-2",
+        "productIds": [],
+        "subscriptionIds": [],
+        "title": "Call of Duty®: Warzone",
+        "destination": "https://us.shop.battle.net/en-us/product/call-of-duty-warzone-2",
+        "franchiseIcon": {
+          "name": "Call of Duty: Warzone",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt294c43cf459c9461/648918994630b6246bc70c14/Warzone_WZ_White_RGB.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "action-shooter",
+        "description": "Action Shooter",
+        "marketingText": "Free for everyone",
+        "directToCheckout": false,
+        "callToActionOption": "Custom",
+        "callToActionText": "Play For Free",
+        "marketingBadge": null,
+        "price": {
+          "currency": null,
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "Play For Free",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt476e411d696dfb08/67e603a1d66ebd1287f688e5/BO6_S3_WZ_X1-Garrison-App-1920x1080.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {},
+          "franchise": "COD: Warzone 2.0",
+          "subBrand": "NOT_APPLICABLE",
+          "category": "action-shooter"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt126034723460053f",
+        "order": 0,
+        "slug": "diablo-immortal",
+        "productIds": [854533],
+        "subscriptionIds": [],
+        "title": "Diablo Immortal™",
+        "destination": "https://us.shop.battle.net/en-us/product/diablo-immortal?p=854533",
+        "franchiseIcon": {
+          "name": "Diablo Immortal",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltee9e970c2fdd9c6b/621d4cb6e47e3d2eff210070/D_Immortal_Icon_Small_BlizzCon_PF08.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8e0c71b84bff39ed/621d4db5e47e3d2eff210074/Diablo_Immortal_logo-enUS.png",
+        "categoryId": "action-rpg",
+        "description": "Action RPG",
+        "marketingText": "",
+        "directToCheckout": false,
+        "callToActionOption": "Custom",
+        "callToActionText": "Play For Free",
+        "marketingBadge": null,
+        "price": {
+          "currency": null,
+          "fullAmount": "Play For Free",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "Play For Free",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 0,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 960,
+          "height": 540,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd5baa2f3baef945d/621d51fc04503350d255bb74/Family_Page_Browsing_Card_Desktop_Mobile_960x540.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "854533": {
+              "name": "Fake Product for Diablo Immortal Launch",
+              "franchise": "Diablo Immortal",
+              "subBrand": "Diablo® Immortal™",
+              "category": "Game"
+            }
+          },
+          "franchise": "Diablo Immortal",
+          "subBrand": "Diablo® Immortal™",
+          "category": "action-rpg"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blt295c24af1c581045",
+        "order": 0,
+        "slug": "diablo_ii_resurrected",
+        "productIds": [74831],
+        "subscriptionIds": [],
+        "title": "Diablo II: Resurrected™",
+        "destination": "https://us.shop.battle.net/en-us/product/diablo_ii_resurrected?p=74831",
+        "franchiseIcon": {
+          "name": "Diablo II: Resurrected",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9ba52a3f1100a00c/60db86c967d3385db9b805ba/diablo-ii.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": null,
+        "categoryId": "action-rpg",
+        "description": "Action RPG",
+        "marketingText": "Evil is Resurrected",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$39.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 39.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 700,
+          "height": 850,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdc3386232e72f844/61255751c8e665143d536841/21974-168304.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "74831": {
+              "name": "Diablo II: Resurrected (Base)",
+              "franchise": "Diablo 2 Resurrected",
+              "subBrand": "Diablo® II: Resurrected™",
+              "category": "Game"
+            }
+          },
+          "franchise": "Diablo 2 Resurrected",
+          "subBrand": "Diablo® II: Resurrected™",
+          "category": "action-rpg"
+        },
+        "shouldShowPriceReducedBadge": false
+      },
+      {
+        "cmsId": "blte989e97b1521f561",
+        "order": 0,
+        "slug": "warcraft-3-reforged",
+        "productIds": [44414],
+        "subscriptionIds": [],
+        "title": "Warcraft® III: Reforged",
+        "destination": "https://us.shop.battle.net/en-us/product/warcraft-3-reforged?p=44414",
+        "franchiseIcon": {
+          "name": "Warcraft III",
+          "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt750d7977de72501b/6722c7987e4dc1f0272fcd85/game_icon_w3r.svg",
+          "slug": null,
+          "anchorText": null
+        },
+        "cardLogoUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt1d687d409e8a5b24/67342ce3d265fa63ff8a618b/WarCraft_Reforged_Frozen_R.png",
+        "categoryId": "real-time-strategy",
+        "description": "Real-time Strategy",
+        "marketingText": "A major new update is live with graphical improvements, improved functionality, UI features, and more! ",
+        "directToCheckout": false,
+        "callToActionOption": "Price",
+        "callToActionText": "",
+        "marketingBadge": null,
+        "price": {
+          "currency": "USD",
+          "fullAmount": "$29.99",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": "",
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 29.99,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "eligibility": null,
+        "panelButtonSection": null,
+        "expiresAtMs": null,
+        "personalizedPercentageDiscount": false,
+        "image": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt1953c897e611639b/67325d79d32591b8409e778b/Feature1_Reforged_20_Patch.png",
+          "description": ""
+        },
+        "ecommerceAnalytics": {
+          "products": {
+            "44414": {
+              "name": "Warcraft III: Reforged",
+              "franchise": "Warcraft 3",
+              "subBrand": "Warcraft III: Reforged",
+              "category": "Game"
+            }
+          },
+          "franchise": "Warcraft 3",
+          "subBrand": "Warcraft III: Reforged",
+          "category": "real-time-strategy"
+        },
+        "shouldShowPriceReducedBadge": false
+      }
+    ]

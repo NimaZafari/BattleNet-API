@@ -1,0 +1,62 @@
+[
+      {
+        "text": "Diablo IV",
+        "destination": "/family/diablo-iv",
+        "category": "Action RPG",
+        "icon": {
+          "width": 40,
+          "height": 40,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+          "description": "Diablo IV"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Diablo Immortal",
+        "destination": "/family/diablo-immortal",
+        "category": "Action RPG",
+        "icon": {
+          "width": 213,
+          "height": 213,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltee9e970c2fdd9c6b/621d4cb6e47e3d2eff210070/D_Immortal_Icon_Small_BlizzCon_PF08.svg",
+          "description": "Diablo Immortal"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Diablo III",
+        "destination": "/family/diablo-iii",
+        "category": "Action RPG",
+        "icon": {
+          "width": 512,
+          "height": 512,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9d75ebc1f2d9db84/60a311ced941d00d913e3c53/diablo-iii.svg",
+          "description": "Diablo III"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Diablo II: Resurrected",
+        "destination": "/family/diablo-ii",
+        "category": "Action RPG",
+        "icon": {
+          "width": 447.64,
+          "height": 382.43,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9ba52a3f1100a00c/60db86c967d3385db9b805ba/diablo-ii.svg",
+          "description": "Diablo II: Resurrected"
+        },
+        "navMarketingBadge": null
+      },
+      {
+        "text": "Diablo",
+        "destination": "/family/diablo",
+        "category": "Action RPG",
+        "icon": {
+          "width": 646.17,
+          "height": 1062.19,
+          "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltea94781ac7b9263a/65a0899aa326be2bf90bc2f8/blizzard_diablo_icon_EE01.svg",
+          "description": "Diablo Classic"
+        },
+        "navMarketingBadge": null
+      }
+    ]
